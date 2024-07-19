@@ -1,4 +1,4 @@
-# 5. Guess The Number Game
+# 1. Guess The Number Game
 
 ## Upload on Github using Git
 
